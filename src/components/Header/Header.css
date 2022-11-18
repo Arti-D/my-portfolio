@@ -1,0 +1,16 @@
+.header {
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+    align-items: center;
+    padding: 21px 5.47% 18px;
+    background-color: #F3C1F8;
+}
+
+
+@media (max-width: 865px){
+    .header {
+        padding: 21px 3.91% 18px;
+    }
+   
+}
