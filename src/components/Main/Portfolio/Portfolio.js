@@ -31,6 +31,9 @@ function Portfolio() {
                         <a target="_blank" rel="noreferrer" className="portfolio__link" href="https://arti-d.github.io/TestTask-imperium/">
 TestTask-imperium (тестовое задание)</a>
                     </li>
+                    <li className="portfolio__project">
+                        <a target="_blank" rel="noreferrer" className="portfolio__link" href="https://arti-d.github.io/five-projects/">Каталог с мини проектами</a>
+                    </li>
                 </ul>
             </div>
         </section>
